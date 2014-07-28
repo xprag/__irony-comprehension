@@ -1,0 +1,12 @@
+﻿                                                   Instructions
+
+Vous allez voir des visages qui expriment des  attitudes  communicatives typiques. Veuillez   décider  si  vous   associez le  visage  présenté sur l’écran  à un mode de communication %(PN)s:
+
+                                          appuyez sur la touche "%(SIDE_PN)s"
+
+ou à un mode de communication neutre:
+
+                                          appuyez sur la touche "%(SIDE_NEUTRAL)s"
+
+Vous devez  répondre le  plus vite  et le plus précisément possible.
+

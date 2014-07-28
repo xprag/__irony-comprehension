@@ -1,0 +1,13 @@
+﻿                                                   Instructions
+
+Vous allez lire des adjectifs  qui représentent des attitudes communicatives typiques. Veuillez décider si vous associez l’adjectif présenté sur l’écran  à un  mode  de  communication %(FM)s:
+
+                                          appuyez sur la touche "%(SIDE_FM)s"
+
+ou à un mode de communication neutre:
+
+                                          appuyez sur la touche "%(SIDE_NEUTRAL)s"
+
+Vous  devez répondre le plus  vite  et  le plus précisément possible.
+
+

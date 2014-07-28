@@ -1,0 +1,19 @@
+﻿                                                 Instructions
+
+Vous allez lire de petites histoires qui se terminent par un commentaire prononcé par un personnage de l’histoire. Appuyez sur la barre « espace » pour lire le dernier mot de la phrase. Veuillez juger si le personnage qui a prononcé la phrase est:
+
+                         GENTIL (bienveillant, respectueux) -> appuyez sur la touche [ %(SIDE_POSITIVE)s ]
+ou:
+                         MECHANT (malveillant, méprisant) -> appuyez sur la touche [ %(SIDE_NEGATIVE)s ]
+
+
+
+
+Pendant l’expérience, vous verrez apparaître une question de type OUI/NON. 
+Répondez, s'il vous plaît:
+
+                           OUI   -> appuyez sur la touche [ %(SIDE_POSITIVE)s ]
+ou:
+                           NON -> appuyez sur la touche [ %(SIDE_NEGATIVE)s ]
+
+Vous devez répondre le plus vite et le plus précisément possible.

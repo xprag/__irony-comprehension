@@ -1,0 +1,41 @@
+SentenceBlock,Context_Id,Context,Gender,Mark,Sentence,TW_Positive,TW_Negative
+P,1,P,F,0,Marie aime la cuisine italienne. Sa mère a préparé des spaghetti pour le dîner. Marie dit : “C’est si…,EXQUIS,INFECT
+P,2,P,M,0,Jean et Elisabeth sont allés danser. Elisabeth a fait 6 pirouettes. Jean dit: “Tu es tellement…,SOUPLE,GAUCHE
+P,3,P,F,0,"Claire doit traduire un mot anglais. Marie lui dit la signification tout de suite, parce que c’est familier. Marie dit: “C’est si…",COURANT,INCONNU
+P,4,P,M,0,"Jean travaillait dur dans le jardin. Heureusement, sa hache était toute neuve. Jean dit: “C’est si…",EFFICACE,SUPERFLU
+T,1,P,M,1,Jean et François voulaient nager. La température de l’eau était de 25C. Jean dit : “C’est si…,CHAUD,FROID
+T,2,P,F,0,Marie enseignait à Jean à conduire. Celui-ci n’y arrivait pas mais il a persévéré quand même. Marie dit: “Tu es si…,PATIENT,NERVEUX
+T,3,P,M,0,Michel emprunta un livre à Jean. L’histoire était pleine de romance et de mystère. Jean dit: “C’était tellement...,CHARMANT,ENNUYEUX
+T,4,P,F,0,Paul donna un nouveau bracelet à sa copine Marie. Il était joli et avait beaucoup de pierres précieuses. Marie dit: “C’est vraiment...,SUPERBE,AFFREUX
+T,5,P,F,1,Marie et Daniel revoyaient  la leçon ensemble. Daniel n’avait rien oublié. Marie dit: “Tu es si…,ATTENTIF,DISTRAIT
+T,6,P,F,1,Marie a demandé à Pierre de l’aider à déménager. Pierre a tout de suite répondu qu’il le ferait très volontiers. Marie dit: “Tu es si…,COURTOIS,ARROGANT
+T,7,P,M,0,Elisabeth a raconté à Jean qu’elle avait dansé au théâtre. Beaucoup de personnes voulaient son autographe. Jean dit: “ C’était tellement... ,BRILLANT,MÉDIOCRE
+T,8,P,F,0,Delphine a décrit à Marie son admirateur. Il était blond et il avait de grands yeux bleus. Marie dit: “Il est tellement…,JOLI,LAID
+T,9,P,M,1,Frédérique et Jean sont allés au cinéma. Le film était passionnant et amusant. Jean dit: “C’était tellement…,ADORABLE,HORRIBLE
+T,10,P,F,1,Marie et François parlent de leur avenir. François est persuadé que tout ira bien. Marie dit: “Tu es si…,POSITIF,NEGATIF
+T,11,P,M,1,"Louise et Jean ont marché pendant 3 heures. Après cette promenade, Louise a fait volontiers son jogging. Jean dit: “Tu es si…",ROBUSTE,FRAGILE
+T,12,P,F,1,Nicolas et Marie sont dans le métro et une personne âgée entre. Nicolas se lève et lui laisse sa place. Marie dit: “Tu es si…,GENTIL,BRUTAL
+T,13,P,M,1,Jean demande son chemin à Lucien. Il donne une réponse précise et détaillée. Jean dit: “Tu es si…,CLAIR,VAGUE
+T,14,P,M,0,Marie a envoyé à Jean son rapport. Il présentait des idées bien exploitées et développées en détail. Jean dit: “C’est si…,PRECIS,CONFUS
+T,15,P,M,1,Marie a participé à un saut de haies. Elle est arrivée première. Jean dit: “Tu es si…,FORTE,NULLE
+T,16,P,F,1,Anne présente une amie à Marie. Elle est très souriante et conviviale envers Marie. Marie dit: “Elle est si…,SYMPATHIQUE,DESAGREABLE
+P,1,N,F,0,Marie déteste le poisson. Sa mère a préparé du saumon norvégien pour le dîner. Marie dit : “C’est si…,EXQUIS,INFECT
+P,2,N,M,0,Jean et Elisabeth sont allés danser. Elisabeth est tombée 6 fois. Jean dit: “Tu es tellement…,SOUPLE,GAUCHE
+P,3,N,F,0,Claire doit traduire un mot anglais. Ni elle ni Marie n’ont réussi à la trouver dans le vocabulaire. Marie dit: “C’est si…,COURANT,INCONNU
+P,4,N,M,0,"Jean travaillait dur dans le jardin. Malheureusement, sa hache était très émoussée. Jean dit: “C’est si…",EFFICACE,SUPERFLU
+T,1,N,M,0,Jean et François voulaient nager. La température de l’eau était de 10C. Jean dit : “C’est si…,CHAUD,FROID
+T,2,N,F,0,Marie enseignait à Jean à conduire. Celui-ci n’y arrivait pas et il a commencé à l’invectiver. Marie dit: “Tu es si…,PATIENT,NERVEUX
+T,3,N,M,0,Michel emprunta un livre à Jean. L’histoire était très prévisible et dépourvue d’action. Jean dit: “C’était tellement...,CHARMANT,ENNUYEUX
+T,4,N,F,0,Paul donna un bracelet horrible à sa copine Marie. Il était de mauvaise qualité et de mauvais goût. Marie dit: “C’est vraiment...,SUPERBE,AFFREUX
+T,5,N,F,0,Marie et Daniel revoyaient  la leçon ensemble. Daniel avait presque tout oublié. Marie dit: “Tu es si…,ATTENTIF,DISTRAIT
+T,6,N,F,0,Marie a demandé à Pierre de l’aider à déménager. Pierre a répondu qu’il n’avait pas de temps à perdre. Marie dit: “Tu es si…,COURTOIS,ARROGANT
+T,7,N,M,0,Elisabeth a raconté à Jean qu’elle avait dansé au théâtre. Personne n’avait voulu aller la voir. Jean dit: “ C’était tellement... ,BRILLANT,MÉDIOCRE
+T,8,N,F,0,Delphine a décrit à Marie son admirateur. Il était chauve et il n’avait que trois dents. Marie dit: “Il est tellement…,JOLI,LAID
+T,9,N,M,0,Frédérique et Jean sont allés au cinéma. Le film était ennuyeux et triste. Jean dit: “C’était tellement…,ADORABLE,HORRIBLE
+T,10,N,F,0,Marie et François parlent de leur avenir. François est persuadé que tout ira mal. Marie dit: “Tu es si…,POSITIF,NEGATIF
+T,11,N,M,0,"Louise et Jean ont marché pendant 3 heures. Après cette promenade, Louise est tombée très malade. Jean dit: “Tu es si…",ROBUSTE,FRAGILE
+T,12,N,F,0,Nicolas et Marie sont dans le métro et une personne âgée entre. Nicolas la pousse pour s’asseoir avant elle. Marie dit: “Tu es si…,GENTIL,BRUTAL
+T,13,N,M,0,Jean demande son chemin à Lucien. Il répond de manière imprécise et générale. Jean dit: “Tu es si…,CLAIR,VAGUE
+T,14,N,M,0,Marie a envoyé à Jean son rapport. Il présentait des idées incohérentes et mal organisées dans leur ensemble. Jean dit: “C’est si…,PRECIS,CONFUS
+T,15,N,M,0,Marie a participé à un saut de haies. Elle est arrivée dernière. Jean dit: “Tu es si…,FORTE,NULLE
+T,16,N,F,0,Anne présente une amie à Marie. Elle est très impolie et irrespectueuse  envers Marie. Marie dit: “Elle est si…,SYMPATHIQUE,DESAGREABLE

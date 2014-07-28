@@ -1,0 +1,5 @@
+﻿                                                    Bonjour!
+
+Vous allez passer une expérience qui est composée de 4 parties. Chaque partie est introduite par des instructions qui vous expliqueront ce que vous devez faire ensuite. Après la fin de la deuxième partie, il y aura une petite pause indiquée par un message: appelez l'expérimentateur qui vous dira comment poursuivre. Merci de votre participation!
+
+
