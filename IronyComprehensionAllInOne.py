@@ -513,20 +513,20 @@ cond_dict['gender'] = expInfo[dk.expInfoCondition].value in [ dk.condMalePos, dk
 cond_dict['type'] = expInfo[dk.expInfoCondition].value in [ dk.condMalePos, dk.condFemalePos ] and 'P' or 'N'
 
 adjectives_table=stimuli_dir + 'Adjectives.csv'
-adjectives_list =data.importTrialList(adjectives_table)
+adjectives_list =data.importConditions(adjectives_table)
 adjectives_cond_list = [x for x in adjectives_list if x['Gender'] == cond_dict['gender'] and (x['Type'] == cond_dict['type'] or x['Type'] == 'X')]
 
 faces_table=stimuli_dir + 'Faces.csv'
-faces_list =data.importTrialList(faces_table)
+faces_list =data.importConditions(faces_table)
 faces_cond_list = [x for x in faces_list if x['Gender'] == cond_dict['gender'] and (x['Type'] == cond_dict['type'] or x['Type'] == 'X')]
 
 stories_table=stimuli_dir + 'Stories.csv'
-stories_list =data.importTrialList(stories_table)
+stories_list =data.importConditions(stories_table)
 stories_practice_list = [ x for x in stories_list if x['SentenceBlock'] == 'P']
 stories_test_list = [ x for x in stories_list if x['SentenceBlock'] == 'T']
 
 fillers_table= stimuli_dir + 'Fillers.csv'
-fillers_list = data.importTrialList(fillers_table)
+fillers_list = data.importConditions(fillers_table)
 fillers_practice_list = [ x for x in fillers_list if x['FillerBlock'] == 'P']
 fillers_test_list = [ x for x in fillers_list if x['FillerBlock'] == 'T']
 
